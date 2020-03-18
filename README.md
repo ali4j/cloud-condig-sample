@@ -6,9 +6,9 @@ This project is an attempt to demonstrate the usage of spring cloud config for c
 ## Overview
 This project contains 3 sub projects:
 
-1. serviceregisty - plays as the eureka server
-2. config-server - serves the configurations
-2. config-client - fetches configurations from the config-server internally
+1. [serviceregistry] - plays as the eureka server
+2. [config-server] - serves the configurations
+2. [config-client] - fetches configurations from the config-server internally
 
 ---
 
@@ -95,3 +95,7 @@ config-server is injected in to the controller and its value is returned as the 
 
 ![alt text](config-client.jpg "config-client")
  
+
+[config-server]: https://github.com/ali4j/cloud-config-sample/tree/master/SpringBootCloudConfig
+[config-client]: https://github.com/ali4j/cloud-config-sample/tree/master/springbootcloudconfigclient
+[serviceregistry]: https://github.com/ali4j/cloud-config-sample/tree/master/serviceregistry
