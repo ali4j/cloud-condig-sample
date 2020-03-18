@@ -95,17 +95,3 @@ config-server is injected in to the controller and its value is returned as the 
 
 ![alt text](config-client.jpg "config-client")
  
-
-
-
-[phonepay-card]: http://repository/phonepay/phonepay-card
-[gateway-service]: http://repository/phonepay/gateway-service
-[finnotech-token-manager]: http://repository/phonepay/finnotech-token-manager
-[content-provider-service]: http://repository/phonepay/content-provider-service
-[ipg-payment-service]: http://repository/phonepay/ipg-payment-service
-[service-registry]: http://repository/phonepay/service-registry
-[finnotech]: https://www.finnotech.ir/fa/Service/List/1/banking
-[phonepaycard-dashboard]:http://repository/phonepay/phonepaycard-dashboard
-[card-app]: http://repository/phonepay/card-app
-[eureka-panel]:  https://172.40.1.12:8761
-[phonepay-card-api-documents]: http://localhost:8794/swagger-ui.html
